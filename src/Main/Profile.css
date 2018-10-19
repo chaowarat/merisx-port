@@ -1,0 +1,62 @@
+.section .hi.animated .text {
+  font-size: 75px;
+  color: #f35626;
+  background-image: -webkit-linear-gradient(92deg, #f35626, #feab3a);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: hue 60s infinite linear;
+}
+
+.section .hi.animated.static {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.section .hi.animated.static .text {
+  font-size: 30px;
+  width: 80px;
+}
+
+.section .name.animated.hidden{
+  display: none;
+}
+
+.section .name.animated .text {
+  font-size: 32px;
+}
+
+.section .nick.animated {
+  margin-top: -16px;
+}
+
+.section .nick.animated.hidden{
+  display: none;
+}
+
+.section .nick.animated .text {
+  font-size: 32px;
+}
+
+.section .avatar.animated.hidden{
+  display: none;
+}
+
+.section .avatar.animated .circle{
+  border-color: #000;
+  border-style: solid;
+  border-radius: 100%;
+  border-width: 1px;
+  width: 150px;
+  height: 150px;
+  margin: -150px auto 40px auto;
+}
+
+@keyframes hue {
+  from {
+    -webkit-filter: hue-rotate(0deg);
+  }
+  to {
+    -webkit-filter: hue-rotate(-360deg);
+  }
+}

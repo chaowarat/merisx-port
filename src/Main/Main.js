@@ -1,7 +1,6 @@
-import React, { Component } from 'react';
-import fullpage from 'fullpage.js';
-import './Main.css';
-import 'fullpage.js/dist/fullpage.css'
+import React, { Component } from 'react'
+import fullpage from 'fullpage.js'
+import './Main.css'
 import Profile from './Profile'
 import AboutMe from './AboutMe'
 import Portfolio from './Portfolio'
@@ -14,7 +13,7 @@ class Main extends Component {
       sectionsColor: ['#fefff7', '#fca109', '#0d0b32'],
       navigation: true,
       navigationPosition: 'right',
-    });
+    })
   }
 
   render() {
@@ -28,4 +27,4 @@ class Main extends Component {
   }
 }
 
-export default Main;
+export default Main
