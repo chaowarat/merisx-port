@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/merisx-port/precache-manifest.005e66ccdf84a023da62f5f5dfe83d87.js"
+  "/merisx-port/precache-manifest.377e58fd44f3ed9a710af3eccd8c0897.js"
 );
 
 workbox.clientsClaim();
