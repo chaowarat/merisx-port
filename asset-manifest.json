@@ -1,14 +1,15 @@
 {
-  "main.css": "/merisx-port/static/css/main.aa1e68ac.chunk.css",
-  "main.js": "/merisx-port/static/js/main.fd2c3578.chunk.js",
-  "main.js.map": "/merisx-port/static/js/main.fd2c3578.chunk.js.map",
-  "static/js/1.6105a37c.chunk.js": "/merisx-port/static/js/1.6105a37c.chunk.js",
-  "static/js/1.6105a37c.chunk.js.map": "/merisx-port/static/js/1.6105a37c.chunk.js.map",
+  "main.css": "/merisx-port/static/css/main.31d2cc28.chunk.css",
+  "main.js": "/merisx-port/static/js/main.fc037358.chunk.js",
+  "main.js.map": "/merisx-port/static/js/main.fc037358.chunk.js.map",
+  "static/css/1.b48c2dca.chunk.css": "/merisx-port/static/css/1.b48c2dca.chunk.css",
+  "static/js/1.06d6a7c1.chunk.js": "/merisx-port/static/js/1.06d6a7c1.chunk.js",
+  "static/js/1.06d6a7c1.chunk.js.map": "/merisx-port/static/js/1.06d6a7c1.chunk.js.map",
   "runtime~main.js": "/merisx-port/static/js/runtime~main.ced28024.js",
   "runtime~main.js.map": "/merisx-port/static/js/runtime~main.ced28024.js.map",
-  "static/media/logo.svg": "/merisx-port/static/media/logo.5d5d9eef.svg",
-  "static/css/main.aa1e68ac.chunk.css.map": "/merisx-port/static/css/main.aa1e68ac.chunk.css.map",
+  "static/css/1.b48c2dca.chunk.css.map": "/merisx-port/static/css/1.b48c2dca.chunk.css.map",
+  "static/css/main.31d2cc28.chunk.css.map": "/merisx-port/static/css/main.31d2cc28.chunk.css.map",
   "index.html": "/merisx-port/index.html",
-  "precache-manifest.29d63457eb5b54696b33b94fe7870ac3.js": "/merisx-port/precache-manifest.29d63457eb5b54696b33b94fe7870ac3.js",
+  "precache-manifest.005e66ccdf84a023da62f5f5dfe83d87.js": "/merisx-port/precache-manifest.005e66ccdf84a023da62f5f5dfe83d87.js",
   "service-worker.js": "/merisx-port/service-worker.js"
 }
